@@ -1,9 +1,7 @@
-// custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
+/**
+ * Implement Gatsby's Browser APIs in this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/browser-apis/
+ */
 
-// normalize CSS across browsers
-import "./src/css/normalize.css"
-
-// custom CSS styles
-import "./src/css/style.css"
+// You can delete this file if you're not using it
